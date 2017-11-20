@@ -1,6 +1,6 @@
-#Efficient Group-n Encoding and Decoding for Facial Age Estimation
+# Efficient Group-n Encoding and Decoding for Facial Age Estimation
 
-##Introduction
+## Introduction
 This repo provides some sources in the work "Efficient Group-n Encoding and Decoding for Facial Age Estimation". And this work is creadted by Zichang Tan, Jun Wan, Zhen Lei, Ruicong Zhi, Guodong Guo and Stan Z. Li.
 
 ## Description
