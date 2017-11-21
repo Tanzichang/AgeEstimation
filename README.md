@@ -9,6 +9,7 @@ The caffemodels and codes of this work are avaliable at the [website](http://www
 
 ## Citation
 Please add a reference if you are using the codes or the pretrained models.
+
 `@article{Tan-PAMI-2017,
   author = {Zichang Tan, Jun Wan, Zhen Lei, Ruicong Zhi, Guodong Guo and Stan Z. Li},
   title = {Efficient Group-n Encoding and Decoding for Facial Age Estimation},
